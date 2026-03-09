@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://weiguangli.io"><img src="https://img.shields.io/badge/Portfolio-weiguangli.io-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>&nbsp;
   <a href="https://linkedin.com/in/weiguangli"><img src="https://img.shields.io/badge/LinkedIn-weiguangli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:weiguang@weiguangli.dev"><img src="https://img.shields.io/badge/Email-weiguang@weiguangli.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:weiguang@weiguangli.io"><img src="https://img.shields.io/badge/Email-weiguang@weiguangli.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br/>
