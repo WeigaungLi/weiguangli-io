@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Weiguang%20Li&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20Agent%20Open%20Source%20Contributor&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+  <a href="https://weiguangli.io"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Weiguang%20Li&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20Agent%20Open%20Source%20Contributor&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/></a>
 </p>
 
 <p align="center">
