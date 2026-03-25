@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&repeat=true&width=580&height=30&lines=5%2B+years+backend+at+Alibaba;47%2B+merged+PRs+in+top+AI+open+source;Building+AI+Agent+infrastructure;Open+to+Work+%E2%80%94+Backend+%2F+AI+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&repeat=true&width=580&height=30&lines=5%2B+years+backend+at+Alibaba;49%2B+merged+PRs+in+top+AI+open+source;Building+AI+Agent+infrastructure;Open+to+Work+%E2%80%94+Backend+%2F+AI+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Backend engineer with **5+ years** building internet-scale services at **Alibaba
 
 All-in on **AI Agent infrastructure** — contributing to top open source projects
 
-**47 merged PRs** across **18 top-tier AI/ML projects** including OpenAI, Google ADK, Hugging Face, LangChain, vLLM, and more
+**49 merged PRs** across **18 top-tier AI/ML projects** including OpenAI, Google ADK, Hugging Face, LangChain, vLLM, and more
 
 <br/>
 
@@ -94,14 +94,14 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 ### Open Source Contributions
 
-**47 Merged PRs** across **18 Top-Tier AI/ML Projects**
+**49 Merged PRs** across **18 Top-Tier AI/ML Projects**
 
 <br/>
 
 | Project | Stars | Merged | Domain |
 |:--------|------:|:------:|:-------|
 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 20K+ | **12** | AI Agent Runtime (Official SDK) |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 158K+ | **5** | ML Framework |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 158K+ | **6** | ML Framework |
 | [langgenius/dify](https://github.com/langgenius/dify) | 132K+ | **4** | AI Application Platform |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 24K+ | **4** | NLP/RAG Pipeline Framework |
 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | 42K+ | **2** | ML Demo & UI Framework |
@@ -113,7 +113,7 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 | [google/adk-python](https://github.com/google/adk-python) | 12K+ | **1** | Google AI Agent Dev Kit |
 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 73K+ | **3** | LLM Serving Engine |
 | [livekit/agents](https://github.com/livekit/agents) | 6K+ | **2** | Real-time Voice AI Agent |
-| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 26K+ | **1** | AI Orchestration SDK |
+| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 26K+ | **2** | AI Orchestration SDK |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 10K+ | **1** | Deep Research Agent |
 | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 46K+ | **1** | LLM Inference UI |
 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9K+ | **1** | AI Observability Platform |
